@@ -1,13 +1,15 @@
 ## Hi there, I'm Alex 👋
 I'm a graduating CS student at Binghamton University passionate about building accessible, user-friendly interfaces.
 
-- 💻 Web development & IT support (React, PHP, SQL)
+- 💻 Web development with React, PHP, SQL
+- 🌐 API integrations
 - 🔍 Problem-solving & debugging
-- 🐧 Linux (Fedora/GNOME) power user
+- 🐧 Linux (Fedora/GNOME) & Obsidian power user
 
 Currently seeking software or data engineering roles.
 
 Let's connect: [LinkedIn](https://www.linkedin.com/in/alex-chen-hsieh)
+
 <!--
 **AlexMicael/AlexMicael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
