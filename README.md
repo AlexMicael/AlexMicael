@@ -7,7 +7,7 @@ I'm a graduating CS student at Binghamton University passionate about building a
 
 Currently seeking software or data engineering roles.
 
-Let's connect: [LinkedIn](#www.linkedin.com/in/alex-chen-hsieh)
+Let's connect: [LinkedIn](https://www.linkedin.com/in/alex-chen-hsieh)
 <!--
 **AlexMicael/AlexMicael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
