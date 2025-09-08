@@ -2,9 +2,7 @@
 I'm a graduating CS student at Binghamton University passionate about building accessible, user-friendly interfaces.
 
 - 💻 Web development with React, PHP, SQL
-- 🌐 API integrations
-- 🔍 Problem-solving & debugging
-- 🐧 Linux (Fedora/GNOME) & Obsidian power user
+- 🐧 Linux (Fedora/GNOME) & 🟣 Obsidian power user
 
 Currently seeking software or data engineering roles.
 
