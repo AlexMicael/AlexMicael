@@ -1,10 +1,6 @@
-## Hi there, I'm Alex 👋
+## Hi, I'm Alex 👋
 I'm a graduating CS student at Binghamton University passionate about building accessible, user-friendly interfaces.
-
-- 💻 Web development with React, PHP, SQL
-- 🐧 Linux (Fedora/GNOME) & 🟣 Obsidian power user
-
-Currently seeking software or data engineering roles.
+Currently seeking software engineering roles.
 
 Let's connect: [LinkedIn](https://www.linkedin.com/in/alex-chen-hsieh)
 
