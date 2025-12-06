@@ -21,22 +21,22 @@ During my Summer 2025 internship, I engineered key features for the BPL web and 
 
 <br />
 
-<table>
+<table width="100%">
   <tr>
-    <td align="center">
+    <td width="33%" valign="top" align="center">
       <img src="./assets/my-account-mobile.png" width="100%" alt="My Account Dashboard" />
       <br />
-      <sub><strong>Unified Dashboard</strong><br/>Real-time room reservations & event data</sub>
+      <sub><strong>Unified Dashboard</strong><br/>Real-time room reservations</sub>
     </td>
-    <td align="center">
+    <td width="33%" valign="top" align="center">
       <img src="./assets/isbn-search-mobile.png" width="100%" alt="ISBN Search Feature" />
       <br />
-      <sub><strong>Camera Search</strong><br/>Scanning physical books to query the catalog</sub>
+      <sub><strong>Camera Search</strong><br/>Scanning physical books</sub>
     </td>
-    <td align="center">
+    <td width="33%" valign="top" align="center">
       <img src="./assets/online-resources-mobile.png" width="100%" alt="Online Resources List" />
       <br />
-      <sub><strong>Resource Integration</strong><br/>Unified access for 3rd-party journals</sub>
+      <sub><strong>Resource Integration</strong><br/>Unified access for journals</sub>
     </td>
   </tr>
 </table>
