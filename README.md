@@ -7,7 +7,7 @@ I specialize in bridging legacy backends with modern, accessible frontends. Curr
 
 ## Featured Work
 ### Brooklyn Public Library App
-**Tech Stack:** React, React Native, MySQL, Node.js, AWS
+**Tech Stack:** React, React Native, PHP, MySQL, Node.js, AWS
 
 During my Summer 2025 internship, I engineered key features for the BPL web and mobile platforms to enhance accessibility and user experience for patrons.
 
