@@ -15,7 +15,7 @@ During my Summer 2025 internship, I engineered key features for the BPL web and 
 <div align="center">
   <img src="./assets/dark-mode-dashboard.png" width="100%" alt="Brooklyn Public Library Dark Mode Dashboard" />
   <br />
-  <sup><em>Designed and implemented a system-wide <strong>Dark Mode</strong></em></sup>
+  <sup><em>Designed and implemented a system-wide <strong>Dark Mode</strong>.</em></sup>
 </div>
 
 <br />
@@ -46,13 +46,3 @@ Developed a camera-based search feature to digitize the physical library experie
 ### 3. Digital Resource Portal
 Simplified access to third-party journals and databases.
 * **Integration:** Aggregated external links (e.g., New York Times, Gale OneFile) into a unified "Online Access" modal.
-
-## Other Projects
-
-### 🌩️ NYC Weather & Ridership Analysis
-* **Tech:** Apache Spark, Python, Open-Meteo API
-* Built a distributed data pipeline to process large-scale transit datasets, modeling the correlation between weather patterns and system usage.
-
-### 🍄 Mushroom Classification via LLM
-* **Tech:** DistilBERT, TinyLlama, LoRA, Google Colab
-* Fine-tuned Large Language Models on the UCI Mushroom dataset using parameter-efficient tuning methods (LoRA) to enable instruction-based classification.
