@@ -1,7 +1,7 @@
 # Hi, I'm Alex 👋
 
 **Full-Stack Software Engineer** based in NYC.
-Currently completing my B.S. in CS at Binghamton University (Dec 2025).
+Just completed my B.S. in CS at Binghamton University (Dec 2025)!
 
 [LinkedIn](https://www.linkedin.com/in/alex-chen-hsieh) • [Email](mailto:alexh04@outlook.com)
 
