@@ -26,7 +26,7 @@ During my Summer 2025 internship, I engineered key features for the BPL web and 
     <td width="33%" valign="top" align="center">
       <img src="./assets/my-account-mobile.png" width="100%" alt="My Account Dashboard" />
       <br />
-      <sub><strong>Unified Dashboard</strong><br/>Real-time room reservations</sub>
+      <sub><strong>Unified Dashboard</strong><br/>Event and room reservations</sub>
     </td>
     <td width="33%" valign="top" align="center">
       <img src="./assets/isbn-search-mobile.png" width="100%" alt="ISBN Search Feature" />
