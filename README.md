@@ -3,8 +3,6 @@
 **Software Engineer** based in NYC.
 Just completed my B.S. in CS at Binghamton University (Dec 2025)!
 
-[LinkedIn](https://www.linkedin.com/in/alex-chen-hsieh) • [Email](mailto:alexh04@outlook.com)
-
 ## Featured Work
 ### Brooklyn Public Library App
 **Tech Stack:** React, React Native, PHP, MySQL, Node.js, AWS
