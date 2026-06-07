@@ -1,8 +1,5 @@
 # Hi, I'm Alex 👋
 
-**Software Engineer** based in NYC.
-Just completed my B.S. in CS at Binghamton University (Dec 2025)!
-
 ## Featured Work
 ### Brooklyn Public Library App
 **Tech Stack:** React, React Native, PHP, MySQL, Node.js, AWS
